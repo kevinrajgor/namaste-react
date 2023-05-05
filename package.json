@@ -1,0 +1,26 @@
+{
+  "name": "first-react-app",
+  "version": "1.0.0",
+  "description": "This is my first react app from namaste react course.",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinrajgor/namaste-react.git"
+  },
+  "author": "Kevin Rajgor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinrajgor/namaste-react/issues"
+  },
+  "homepage": "https://github.com/kevinrajgor/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
