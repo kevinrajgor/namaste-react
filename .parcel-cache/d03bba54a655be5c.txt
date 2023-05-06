@@ -1,8 +1,4 @@
-5834
-97Z:\Namaste React\Practice\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\parse.cjs133277600742550008 0
-80Z:\Namaste React\Practice\node_modules\react-dom\cjs\react-dom.production.min.js133277756498455863 0
-65Z:\Namaste React\Practice\node_modules\htmlnano\docs\package.json133277600705688324 0
-32Z:\Namaste React\Practice\App.js133277763971124646 0
+5839
 57Z:\Namaste React\Practice\node_modules\csso\cjs\index.cjs133277600674326530 0
 38Z:\Namaste React\Practice\package.json133277771056896523 0
 61Z:\Namaste React\Practice\node_modules\domutils\lib\legacy.js133277600631354145 0
@@ -16,7 +12,7 @@
 88Z:\Namaste React\Practice\node_modules\caniuse-lite\data\features\css-backdrop-filter.js133277600748427785 0
 93Z:\Namaste React\Practice\node_modules\@swc\helpers\lib\_class_check_private_static_access.js133277600664975902 0
 70Z:\Namaste React\Practice\node_modules\@parcel\workers\src\cpuCount.js133277600665427788 0
-30Z:\Namaste React\Practice\dist133277773123804736 1
+30Z:\Namaste React\Practice\dist133277789087459090 1
 70Z:\Namaste React\Practice\node_modules\caniuse-lite\data\regions\AX.js133277600706171259 0
 108Z:\Namaste React\Practice\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeDoctype.js133277600726244686 0
 77Z:\Namaste React\Practice\node_modules\@parcel\transformer-image\package.json133277600658899478 0
@@ -25,11 +21,21 @@
 63Z:\Namaste React\Practice\node_modules\to-regex-range\README.md133277600628342380 0
 91Z:\Namaste React\Practice\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js133277600731331366 0
 68Z:\Namaste React\Practice\node_modules\regenerator-runtime\README.md133277600642746647 0
-73Z:\Namaste React\Practice\node_modules\caniuse-lite\dist\lib\supported.js133277600791915953 0
-92Z:\Namaste React\Practice\node_modules\csso\node_modules\css-tree\lib\syntax\pseudo\index.js133277600766232280 0
-61Z:\Namaste React\Practice\node_modules\supports-color\license133277600619023135 0
-36Z:\Namaste React\Practice\styles.css133275865959161259 0
-82Z:\Namaste React\Practice\node_modules\caniuse-lite\data\features\css-animation.js133277600747226622 0
+92Z:\Namaste React\Practice\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\dist133277600716771735 1
+68Z:\Namaste React\Practice\node_modules\terser\lib\compress\common.js133277600680479621 0
+88Z:\Namaste React\Practice\node_modules\caniuse-lite\data\features\css-scroll-timeline.js133277600766232280 0
+68Z:\Namaste React\Practice\node_modules\@parcel\workers\lib\Worker.js133277600703928046 0
+67Z:\Namaste React\Practice\node_modules\svgo\plugins\cleanupAttrs.js133277600651324168 0
+48Z:\Namaste React\Practice\node_modules\@mischnic133277600597523717 1
+102Z:\Namaste React\Practice\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeXMLNS.js133277600735228213 0
+57Z:\Namaste React\Practice\node_modules\.package-lock.json133277757890618449 0
+69Z:\Namaste React\Practice\node_modules\csso\node_modules\css-tree\cjs133277600751704343 1
+36Z:\Namaste React\Practice\.gitignore133277791581218155 0
+70Z:\Namaste React\Practice\node_modules\caniuse-lite\data\regions\FI.js133277600773857767 0
+97Z:\Namaste React\Practice\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\parse.cjs133277600742550008 0
+80Z:\Namaste React\Practice\node_modules\react-dom\cjs\react-dom.production.min.js133277756498455863 0
+65Z:\Namaste React\Practice\node_modules\htmlnano\docs\package.json133277600705688324 0
+32Z:\Namaste React\Practice\App.js133277789099820432 0
 44Z:\Namaste React\Practice\node_modules\clone133277600643624681 1
 93Z:\Namaste React\Practice\node_modules\@parcel\transformer-js\parcel-swc.linux-arm64-gnu.node133277600792330770 0
 57Z:\Namaste React\Practice\node_modules\get-port\readme.md133277600670650063 0
@@ -69,20 +75,17 @@
 60Z:\Namaste React\Practice\node_modules\csso\dist\version.cjs133277600699759015 0
 88Z:\Namaste React\Practice\node_modules\@parcel\source-map\dist\wasm-bindings-web.js.flow133277600652225147 0
 38Z:\Namaste React\Practice\node_modules133277757888318928 1
+73Z:\Namaste React\Practice\node_modules\caniuse-lite\dist\lib\supported.js133277600791915953 0
+92Z:\Namaste React\Practice\node_modules\csso\node_modules\css-tree\lib\syntax\pseudo\index.js133277600766232280 0
+61Z:\Namaste React\Practice\node_modules\supports-color\license133277600619023135 0
+36Z:\Namaste React\Practice\styles.css133275865959161259 0
+82Z:\Namaste React\Practice\node_modules\caniuse-lite\data\features\css-animation.js133277600747226622 0
 69Z:\Namaste React\Practice\node_modules\lines-and-columns\package.json133277600623750683 0
 60Z:\Namaste React\Practice\node_modules\@parcel\utils\LICENSE133277600665224696 0
 78Z:\Namaste React\Practice\node_modules\@parcel\utils\test\prettifyTime.test.js133277600728629366 0
 70Z:\Namaste React\Practice\node_modules\caniuse-lite\data\regions\PN.js133277600787841678 0
 63Z:\Namaste React\Practice\node_modules\terser\tools\domprops.js133277600686676173 0
 43Z:\Namaste React\Practice\node_modules\.bin133277755909647099 1
-92Z:\Namaste React\Practice\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\dist133277600716771735 1
-68Z:\Namaste React\Practice\node_modules\terser\lib\compress\common.js133277600680479621 0
-88Z:\Namaste React\Practice\node_modules\caniuse-lite\data\features\css-scroll-timeline.js133277600766232280 0
-68Z:\Namaste React\Practice\node_modules\@parcel\workers\lib\Worker.js133277600703928046 0
-67Z:\Namaste React\Practice\node_modules\svgo\plugins\cleanupAttrs.js133277600651324168 0
-48Z:\Namaste React\Practice\node_modules\@mischnic133277600597523717 1
-102Z:\Namaste React\Practice\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeXMLNS.js133277600735228213 0
-57Z:\Namaste React\Practice\node_modules\.package-lock.json133277757890618449 0
 58Z:\Namaste React\Practice\node_modules\css-tree\lib\syntax133277600764932040 1
 70Z:\Namaste React\Practice\node_modules\caniuse-lite\data\regions\GH.js133277600775831434 0
 50Z:\Namaste React\Practice\node_modules\is-arrayish133277600638375288 1
@@ -211,9 +214,6 @@
 51Z:\Namaste React\Practice\node_modules\browserslist133277600653486383 1
 47Z:\Namaste React\Practice\node_modules\boolbase133277600617465162 1
 95Z:\Namaste React\Practice\node_modules\@swc\helpers\src\_class_apply_descriptor_destructure.mjs133277600741030085 0
-69Z:\Namaste React\Practice\node_modules\type-fest\ts41\snake-case.d.ts133277600690177024 0
-93Z:\Namaste React\Practice\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\README.md133277600707177962 0
-46Z:\Namaste React\Practice\node_modules\is-json133277600633827532 1
 89Z:\Namaste React\Practice\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.c133277600683659324 0
 52Z:\Namaste React\Practice\node_modules\color-convert133277600639724319 1
 86Z:\Namaste React\Practice\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\lmdb.h133277600741431502 0
@@ -363,6 +363,9 @@
 79Z:\Namaste React\Practice\node_modules\caniuse-lite\data\features\use-strict.js133277600795629294 0
 91Z:\Namaste React\Practice\node_modules\css-select\lib\esm\pseudo-selectors\aliases.d.ts.map133277600677542644 0
 63Z:\Namaste React\Practice\node_modules\js-yaml\lib\exception.js133277600644923979 0
+69Z:\Namaste React\Practice\node_modules\type-fest\ts41\snake-case.d.ts133277600690177024 0
+93Z:\Namaste React\Practice\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\README.md133277600707177962 0
+46Z:\Namaste React\Practice\node_modules\is-json133277600633827532 1
 63Z:\Namaste React\Practice\node_modules\detect-libc\package.json133277600625189290 0
 48Z:\Namaste React\Practice\node_modules\is-number133277600620429984 1
 66Z:\Namaste React\Practice\node_modules\css-select\lib\general.d.ts133277600727079529 0
@@ -1022,6 +1025,7 @@
 53Z:\Namaste React\Practice\node_modules\terser\main.js133277600702369946 0
 80Z:\Namaste React\Practice\node_modules\csso\lib\restructure\8-restructRuleset.js133277600707052049 0
 75Z:\Namaste React\Practice\node_modules\@parcel\watcher\prebuilds\darwin-x64133277600701151787 1
+49Z:\Namaste React\Practice\dist\index.1303bb05.css133277789086046202 0
 56Z:\Namaste React\Practice\node_modules\js-tokens\LICENSE133277600626620487 0
 84Z:\Namaste React\Practice\node_modules\lmdb\node_modules\node-addon-api\package.json133277600698828479 0
 96Z:\Namaste React\Practice\node_modules\csso\node_modules\css-tree\lib\syntax\node\Parentheses.js133277600768429939 0
@@ -1819,9 +1823,9 @@
 56Z:\Namaste React\Practice\node_modules\has-flag\index.js133277600620627514 0
 62Z:\Namaste React\Practice\node_modules\ordered-binary\index.js133277600631424315 0
 70Z:\Namaste React\Practice\node_modules\caniuse-lite\data\regions\DO.js133277600771893650 0
+81Z:\Namaste React\Practice\node_modules\css-tree\cjs\utils\create-custom-error.cjs133277600665427788 0
 63Z:\Namaste React\Practice\node_modules\csso\lib\clean\Atrule.js133277600707780158 0
 61Z:\Namaste React\Practice\node_modules\ordered-binary\LICENSE133277600616825970 0
-81Z:\Namaste React\Practice\node_modules\css-tree\cjs\utils\create-custom-error.cjs133277600665427788 0
 60Z:\Namaste React\Practice\node_modules\has-flag\package.json133277600613455528 0
 66Z:\Namaste React\Practice\node_modules\ordered-binary\package.json133277600640005659 0
 96Z:\Namaste React\Practice\node_modules\node-releases\data\release-schedule\release-schedule.json133277600634956531 0
@@ -2811,7 +2815,6 @@
 77Z:\Namaste React\Practice\node_modules\@swc\helpers\src\_array_with_holes.mjs133277600736727002 0
 87Z:\Namaste React\Practice\node_modules\csso\node_modules\mdn-data\css\units.schema.json133277600703026927 0
 78Z:\Namaste React\Practice\node_modules\csso\node_modules\mdn-data\api\index.js133277600666725577 0
-69Z:\Namaste React\Practice\node_modules\csso\node_modules\css-tree\cjs133277600751704343 1
 75Z:\Namaste React\Practice\node_modules\@parcel\config-default\test\.babelrc133277600671036970 0
 70Z:\Namaste React\Practice\node_modules\csso\node_modules\css-tree\data133277600772060975 1
 63Z:\Namaste React\Practice\node_modules\@parcel\packager-svg\src133277600665427788 1
@@ -3070,6 +3073,7 @@
 73Z:\Namaste React\Practice\node_modules\@parcel\packager-js\src\helpers.js133277600675589335 0
 70Z:\Namaste React\Practice\node_modules\caniuse-lite\data\regions\NZ.js133277600785140208 0
 90Z:\Namaste React\Practice\node_modules\csso\node_modules\css-tree\cjs\generator\create.cjs133277600697378693 0
+52Z:\Namaste React\Practice\dist\index.7826abd7.js.map133277789087429093 0
 83Z:\Namaste React\Practice\node_modules\caniuse-lite\data\features\css-gencontent.js133277600756480953 0
 103Z:\Namaste React\Practice\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\SyntaxError.cjs133277600748268395 0
 89Z:\Namaste React\Practice\node_modules\csso\node_modules\css-tree\cjs\convertor\index.cjs133277600726629395 0
@@ -3139,7 +3143,7 @@
 78Z:\Namaste React\Practice\node_modules\caniuse-lite\data\features\svg-html5.js133277600792320602 0
 60Z:\Namaste React\Practice\node_modules\csso\dist\csso.esm.js133277600718542733 0
 53Z:\Namaste React\Practice\node_modules\csso\cjs\clean133277600700339457 1
-53Z:\Namaste React\Practice\dist\index.5c41569b.css.map133277773123779372 0
+53Z:\Namaste React\Practice\dist\index.5c41569b.css.map133277773314246307 0
 60Z:\Namaste React\Practice\node_modules\csso\cjs\compress.cjs133277600661374415 0
 93Z:\Namaste React\Practice\node_modules\css-select\node_modules\domutils\lib\esm\legacy.js.map133277600706625894 0
 58Z:\Namaste React\Practice\node_modules\csso\cjs\syntax.cjs133277600688953470 0
@@ -3887,7 +3891,6 @@
 70Z:\Namaste React\Practice\node_modules\caniuse-lite\data\regions\ER.js133277600772927927 0
 57Z:\Namaste React\Practice\node_modules\acorn\CHANGELOG.md133277600655528368 0
 70Z:\Namaste React\Practice\node_modules\caniuse-lite\data\regions\ET.js133277600773453263 0
-70Z:\Namaste React\Practice\node_modules\caniuse-lite\data\regions\FI.js133277600773857767 0
 70Z:\Namaste React\Practice\node_modules\caniuse-lite\data\regions\FJ.js133277600774102243 0
 70Z:\Namaste React\Practice\node_modules\caniuse-lite\data\regions\FK.js133277600774184125 0
 69Z:\Namaste React\Practice\node_modules\@parcel\utils\src\TapStream.js133277600735878213 0
@@ -4662,6 +4665,7 @@
 66Z:\Namaste React\Practice\node_modules\@babel\code-frame\README.md133277600619827616 0
 66Z:\Namaste React\Practice\node_modules\@parcel\workers\lib\process133277600687428980 1
 67Z:\Namaste React\Practice\node_modules\@parcel\workers\lib\types.js133277600702329767 0
+48Z:\Namaste React\Practice\dist\index.7826abd7.js133277789087309150 0
 82Z:\Namaste React\Practice\node_modules\@parcel\workers\lib\threads\ThreadsChild.js133277600696689288 0
 83Z:\Namaste React\Practice\node_modules\@parcel\workers\lib\process\ProcessWorker.js133277600687727258 0
 73Z:\Namaste React\Practice\node_modules\@parcel\reporter-cli\src\render.js133277600690228905 0
@@ -5830,6 +5834,7 @@
 54Z:\Namaste React\Practice\node_modules\.bin\semver.ps1133277600810033313 0
 48Z:\Namaste React\Practice\node_modules\.bin\svgo133277600810033313 0
 52Z:\Namaste React\Practice\node_modules\.bin\svgo.ps1133277600810033313 0
+53Z:\Namaste React\Practice\dist\index.1303bb05.css.map133277789086046202 0
 49Z:\Namaste React\Practice\dist\index.5c41569b.css133277773123592921 0
 52Z:\Namaste React\Practice\dist\index.a1094214.js.map133277773123794501 0
-41Z:\Namaste React\Practice\dist\index.html133277773123592921 0
+41Z:\Namaste React\Practice\dist\index.html133277789087449073 0
